@@ -1,2 +1,1 @@
-This is a Test File.
-I am learning git basics and the command line stuff.
+Chapter One is all about starting things in right way.
